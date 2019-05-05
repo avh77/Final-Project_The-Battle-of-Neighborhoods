@@ -14,7 +14,7 @@ At the next step of the research the minimum distance between every neighborhood
 The remote neighborhoods are visualized on the map of the city. The neighborhoods distributed in the north, the south-east and the west of Edmonton mostly.
 The next question is the determination of quantity of needed pharmacies. It is obvious, that the quantity most has a proportion similar to existing quantity pharmacies serving nearest neighborhoods. This number of needed pharmacies is calculated and is 10.875.  As we can see, it should be opened 11 (10.875 rounded to nearest) new pharmacies. 
 The next problem is to find coordinates of the new pharmacies. The good idea is to use K-Means Clustering for that purpose. The initialization method of the centroids k-means++ was used. The number of time the k-means algorithm run with different centroid seeds was 10, that is enough for this project. 
-Finally, the table with coordinates of new pharmacies was received. The coordinates are the approximate positions where new pharmacies would be accessible for the population of remote neighborhoods. The new pharmacies are visualized on the map of the city (fig.9).
+Finally, the table with coordinates of new pharmacies was received. The coordinates are the approximate positions where new pharmacies would be accessible for the population of remote neighborhoods. The new pharmacies are visualized on the map of the city.
 Note: if founded coordinates are match with an existing building, another closest place should be reviewed.
 
 Reference indexes
