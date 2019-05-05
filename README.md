@@ -1,5 +1,4 @@
 # Final-Project_The-Battle-of-Neighborhoods
-This project is aimed at estimation of pharmacy`s accessibility in Edmonton
 What we can do when the nearest pharmacy is miles away? Sometimes it is vital to buy pills or drugs as soon as possible for anyone of us. For example, in case of bronchitis or diabetes, it is a question of life or death.
 The entrepreneurs are also interested in the answer to the following question: “Where a new pharmacy may be opened?” The answer is a part of a pharmacy`s business plan. 
 Therefore, the following questions are of high interest:
