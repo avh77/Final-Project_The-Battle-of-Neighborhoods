@@ -17,7 +17,7 @@ The next problem is to find coordinates of the new pharmacies. The good idea is 
 Finally, the table with coordinates of new pharmacies was received. The coordinates are the approximate positions where new pharmacies would be accessible for the population of remote neighborhoods. The new pharmacies are visualized on the map of the city.
 Note: if founded coordinates are match with an existing building, another closest place should be reviewed.
 
-Referencies
+References
 -	International Pharmaceutical Federation – FIP (2017). Pharmacy at a glance – 2015-2017. The Hague, The Netherlands: International Pharmaceutical Federation
 -	https://data.edmonton.ca/
 -	https://developer.foursquare.com/ 
